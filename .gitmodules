@@ -1,0 +1,3 @@
+[submodule "dockerized-puppeter"]
+	path = dockerized-puppeter
+	url = https://github.com/J0k3rCa4d/dockerized-puppeteer.git
